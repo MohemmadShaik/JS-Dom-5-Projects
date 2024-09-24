@@ -1,4 +1,4 @@
-# JS-DOM Basic with 5 Projects<br> 
+# Basics of JS-DOM with 5 Projects<br> 
 
 
   **What is DOM?**<br>
