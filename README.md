@@ -1,4 +1,5 @@
-# DOM in Javascript  
+# JS-DOM Basic with 5 Projects<br> 
+-------------------------------<br>
 
   **What is DOM?**<br>
 **----------------**    
@@ -18,7 +19,7 @@
 3. Changing CSS
 4. Event Listener
   
-   **What actually we can do using DOM**<br>
+**What actually we can do using DOM**<br>
 **---------------------------------------**  
 
 **--> Simple Example of bulb or whatever clicking on   the same button**<br>
@@ -27,15 +28,12 @@
 **--> setTimeout**<br>
 **--> SetInterval**<br>
 **--> Future Projects**<br>
-**----------------------------------**<br><br>  
 
-  **Normal-JS VS JS-with-Dom**<b>
+  **Normal-JS VS JS-with-Dom**<br>
 **--------------------------**    
---> "JavaScript" can refer to the use of the language in any environment,<br>
-focusing on logic, data manipulation, and more.
+--> "JavaScript" can refer to the use of the language in any environment, focusing on logic, data manipulation,and more.
 
---> "JavaScript with the DOM" specifically refers to using JavaScript to manipulate web pages, enhancing or changing their content, structure<br> and presentation in response to user interactions or other factors.
+--> "JavaScript with the DOM" specifically refers to using JavaScript to manipulate web pages, enhancing or changing their content, structure and presentation in response to user interactions or other factors.
 
 Author - MohemmadShaik
 Reference - Sheryians Coding School.
-# JS-Dom-5-Projects
