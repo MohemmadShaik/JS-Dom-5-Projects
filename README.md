@@ -35,5 +35,5 @@
 
 --> "JavaScript with the DOM" specifically refers to using JavaScript to manipulate web pages, enhancing or changing their content, structure and presentation in response to user interactions or other factors.
 
-Author - MohemmadShaik
+Author - MohemmadShaik,  <br>
 Reference - Sheryians Coding School.
