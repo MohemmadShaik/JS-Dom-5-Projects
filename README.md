@@ -38,4 +38,5 @@ focusing on logic, data manipulation, and more.
 
 Author - MohemmadShaik
 Reference - Sheryians Coding School.
+
 # JS-Dom-5-Projects
