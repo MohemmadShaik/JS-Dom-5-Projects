@@ -9,7 +9,7 @@
 
 --> With the ability to select and modify elements on the fly,  We can create seamless user experiences and build sophisticated web solutions.
 
---> It represents the structure of HTML and XML   documents as a tree-like structure, where each node represents a part of the document, such as elements, attributes and text.
+--> It represents the structure of HTML and XML documents as a tree-like structure, where each node represents a part of the document, such as elements, attributes and text.
 
   **4 Pillars of DOM**<br>
 **---------------------**    
@@ -22,7 +22,7 @@
 **What actually we can do using DOM**<br>
 **-----------------------------------------**  
 
-**--> Simple Example of bulb or whatever clicking on   the same button**<br>
+**--> Simple Example Creating Bulb with switch ON/OFF**<br>
 **--> Multiple events**<br>
 **--> Selecting multiple elements at a same time**<br>
 **--> setTimeout**<br>

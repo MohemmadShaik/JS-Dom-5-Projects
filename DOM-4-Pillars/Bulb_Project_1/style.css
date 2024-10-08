@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Gilroy';
+}
+
+html, body{
+     height: 100%;
+     width: 100%;
+}
+
+h1{
+    background-color: lightcoral;
+}
+
+#bulb{
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    border: 4px solid black;
+    margin-top: 20px;
+    margin-left: 30px;
+    /* background-color: yellow; */
+}
+
+button{
+    padding: 10px 20px;
+    font-size: 20px;
+    margin: 30px 150px;
+
+}
