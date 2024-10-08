@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>querySelector VS querySelectorAll</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>This is H1 header 1</h1>
+    <h2>This is H1 header 2</h2>
+
+    <script>
+        var a = document.querySelector("h1");
+        var b = document.querySelector("h2");
+
+        a.textContent = "<h1>TEXT HERE<H1>";
+        b.innerHTML = "<h1>TEXT HERE<H1>"
+    </script>
+    <!-- <script src="script.js"></script> -->
+</body>
+</html>
