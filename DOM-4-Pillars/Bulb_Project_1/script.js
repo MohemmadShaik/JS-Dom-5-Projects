@@ -1,21 +1,25 @@
 var bulb = document.querySelector("#bulb");
 var btn = document.querySelector("button");
+var h11 = document.querySelector("h1");
 var flag = 1;
-btn.addEventListener("click",function(){
+btn.addEventListener("click", function(){
     if(flag == 1){
-        // Turn ON the bulb
         bulb.style.backgroundColor = "yellow";
+        bulb.style.borderColor = "green";
+        btn.style.backgroundColor ="green";
+        h11.style.backgroundColor = "green";
+        h11.style.color = "yellow";
+        btn.textContent= "ON"
         console.log("Button ON");
-        // Change button color to green when ON
-        btn.style.backgroundColor = "Green"
         flag = 0;
     }else{
-        // Turn OFF the bulb
         bulb.style.backgroundColor = "transparent";
+        bulb.style.borderColor = "red";
+        btn.style.backgroundColor ="red";
+        h11.style.backgroundColor = "red";
+        h11.style.color = "white";
+        btn.textContent= "OFF"
         console.log("Button OFF");
-        // Change button color to red when OFF
-        btn.style.backgroundColor ="red"
         flag = 1;
     }
-    
 })

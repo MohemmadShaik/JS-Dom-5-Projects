@@ -10,23 +10,31 @@ html, body{
      width: 100%;
 }
 
-h1{
-    background-color: lightcoral;
-}
-
 #bulb{
     height: 300px;
     width: 300px;
     border-radius: 50%;
-    border: 4px solid black;
-    margin-top: 20px;
+    border : 14px solid rgb(190, 25, 25); 
+    margin-top: 30px;
     margin-left: 30px;
     /* background-color: yellow; */
 }
 
 button{
-    padding: 10px 20px;
-    font-size: 20px;
-    margin: 30px 150px;
+    padding: 20px 3px;
+    border-radius: 15%;
+    margin : 50px 140px;
+    border : 5px solid yellow;
+    cursor: pointer;
+    font-size: large;
+    font-weight: bold;
+    background-color: lightgray;
+    width: 100px; /* Fixed width */
+    text-align: center; /* Centers the text within the button */
 
-}
+ }
+
+ h1{
+    background-color: burlywood;
+    color: red;
+ }
