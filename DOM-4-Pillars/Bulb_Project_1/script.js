@@ -9,7 +9,8 @@ btn.addEventListener("click", function(){
         btn.style.backgroundColor ="green";
         h11.style.backgroundColor = "green";
         h11.style.color = "yellow";
-        btn.textContent= "ON"
+        btn.textContent= "ON";
+        btn.style.color = "yellow";
         console.log("Button ON");
         flag = 0;
     }else{
@@ -18,7 +19,8 @@ btn.addEventListener("click", function(){
         btn.style.backgroundColor ="red";
         h11.style.backgroundColor = "red";
         h11.style.color = "white";
-        btn.textContent= "OFF"
+        btn.textContent= "OFF";
+        btn.style.color = "white"
         console.log("Button OFF");
         flag = 1;
     }
